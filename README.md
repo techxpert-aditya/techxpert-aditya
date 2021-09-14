@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techxpert-aditya
-- 👀 I’m interested in DSA and open source contribution
-- 🌱 I’m currently learning data structures & algorithm in JAVA
+- 👀 I’m interested in DSA and open source contribution & web development & AI-ML
+- 🌱 I’m currently learning DSA in JAVA & web-dev
 - 💞️ I’m looking to collaborate on various opportunities
 - 📫 How to reach me : techxpert.aditya2409@gmail.com
 
